@@ -1,0 +1,12 @@
+# Unity exclusions
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+*.csproj
+*.sln
+*.userprefs
+.DS_Store
